@@ -1,0 +1,21 @@
+#accessories {
+  background-image: url("https://i.ytimg.com/vi/B3M7dT9z-yg/maxresdefault.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#phones {
+  background-image: url("https://www.cnet.com/a/img/resize/221b24f8907838597cdbcf2cdf9e886499de218b/hub/2023/02/05/f52fdc98-dafc-4d05-b20e-8bd936b49a53/oneplus-11-review-cnet-lanxon-promo-8.jpg?auto=webp&fit=crop&height=1200&width=1200");
+  background-size: cover;
+  background-position: center;
+}
+#laptops {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/978/404/900/computer-ios-dell-xps-15-ultrabook-hd-wallpaper-preview.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#tablets {
+  background-image: url("https://preview.redd.it/what-is-the-advantage-of-an-android-tablet-over-a-windows-v0-oviljm63z0sa1.jpg?auto=webp&s=716959acb269aa8386b38ebb89de00f2b522e929");
+  background-size: cover;
+  background-position: center;
+}

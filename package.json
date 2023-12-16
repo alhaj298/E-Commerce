@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.3",
+    "@emailjs/browser": "^3.11.0",
+    "flowbite-react": "^0.6.4",
+    "formik": "^2.4.5",
+    "framer-motion": "^10.16.5",
+    "ngrok": "^5.0.0-beta.2",
+    "react-bootstrap": "^2.9.1",
+    "react-google-recaptcha": "^3.1.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.19.0",
+    "snipcart": "^0.0.1",
+    "swiper": "^11.0.5"
+  },
+  "devDependencies": {
+    "vite": "^5.0.3"
+  }
+}

@@ -1,0 +1,490 @@
+[
+  {
+    "id": 0,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-e067435a83e3922123433909a941eae1/products/2668279/2668279_3_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-1571e01ee281069ff68bcf0a9ef3257e/products/2668279/2668279_4_1200x1200_w_g.jpg",
+      "https://media.power-cdn.net/images/h-ca2618d94a899f698c0d7392f76709d2/products/2668279/2668279_7_1200x1200_w_g.jpg",
+      "https://media.power-cdn.net/images/h-6ac2b7c1fb7abe82bec55473438b2144/products/2668279/2668279_10_1200x1200_w_g.jpg"
+    ],
+    "name": "Iphone 15 Pro Max",
+    "screen_size": "6.7 inches",
+    "description": "The iPhone 15 Pro Max features a 48MP main camera with 2x telephoto, all-day battery life, and USB-C. It comes with a 6.1-inch screen size.",
+    "storage": ["256GB", ",512GB", ",1TB"],
+    "ram": "12GB",
+    "price": "1,199"
+  },
+  {
+    "id": 1,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-bf850ad3db01db2e1eef890174a4cfb3/products/2668271/2668271_2_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-db94d91772b6a9ae7c51d66d357a5062/products/2668271/2668271_1_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-ac730fc20e2a480d99424e428690e44d/products/2668271/2668271_5_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-8dfddec1220e9b3ba1770f2e454ebab1/products/2668271/2668271_8_900x900_w_g.webp"
+    ],
+    "name": "iPhone 15 Pro",
+    "screen_size": "6.1 inches",
+    "description": [
+      "The iPhone 15 Pro features a 48MP main camera with 2x telephoto, Always-On display with ProMotion technology, and a faster A17 Pro chip. It also has an Action button for customizable interactions."
+    ],
+    "storage": ["256GB", ",512GB", ",1TB"],
+    "ram": "12GB",
+    "price": "999.00"
+  },
+  {
+    "id": 2,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-b87a2a785f79cae7f9aec9b544e538bc/products/2668250/2668250_10_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-68a3434a43835a04c82dab326c7f5b49/products/2668250/2668250_1_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-fb6fdf51b095eefd2c3a8c3fe641f1b4/products/2668250/2668250_3_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-326712430526903a45a1ef470cbb8ade/products/2668250/2668250_7_900x900_w_g.webp"
+    ],
+    "name": "iPhone 15 Plus",
+    "screen_size": "6.7 inches",
+    "description": "The iPhone 15 Plus boasts a 48MP main camera with 2x telephoto, all-day battery life, and USB-C. It comes with a 6.7-inch screen size.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "899.00"
+  },
+  {
+    "id": 3,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-818a570e595d26850832299e0774abad/products/2668235/2668235_10_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-2c481a2ae989daa46d64e3b6e76a0b73/products/2668235/2668235_1_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-06e9b2845cd6293f18f3b54eec05f7f4/products/2668235/2668235_4_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-b9c81f6b3b26acea0dcd202156b004b4/products/2668235/2668235_7_900x900_w_g.webp"
+    ],
+    "name": "iPhone 15",
+    "screen_size": "6.1 inches",
+    "description": "The iPhone 15 features a 48MP main camera with 2x telephoto, all-day battery life, and USB-C. It comes with a 6.1-inch screen size.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "799.00"
+  },
+  {
+    "id": 4,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-ce08ad6d9b708f41586d613c6a2d2d78/products/1804015/1804015_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-babad1d08f34946ba82a022d30410e84/products/1804015/1804015_2_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-42b6eb299dc90ebc86d1138b253418a0/products/1804015/1804015_5_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-1623537e44e6294dce0cba47e7ba5b8e/products/1804015/1804015_9_900x900_w_g.webp"
+    ],
+
+    "name": "iPhone 14 Pro Max",
+    "screen_size": "6.7 inches",
+    "description": "Discover the extraordinary iPhone 14 Pro Max, equipped with a powerful 12MP camera system and a range of advanced features. While the exact screen size is yet to be unveiled, anticipate a seamless blend of innovation and design, promising an exceptional viewing experience and top-notch photography capabilities. Stay tuned for a device that redefines excellence in the world of smartphones.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "999.00"
+  },
+  {
+    "id": 5,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-714b41d20e3d03c91daceb70973eef9d/products/1803995/1803995_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-cfeeeaaebf2ae9e8b1be3fbe6171d794/products/1803995/1803995_2_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-ea722ba32710139da4857ba1ab46c2e9/products/1803995/1803995_5_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-e6e2f19a04d5de0a4fdb963a0ab96dc8/products/1803995/1803995_9_900x900_w_g.webp"
+    ],
+    "name": "iPhone 14 Pro",
+    "screen_size": "6.1 inches",
+    "description": "The iPhone 14 Pro features a 12MP camera setup and other advanced features. Screen size to be announced.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "899.00"
+  },
+  {
+    "id": 6,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-a6a1a1b54831e48b22d42c60ca6a4f7f/products/1803979/1803979_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-97e37ed1914f701e6207a6cd7b38a057/products/1803979/1803979_2_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-d4e814a78ff8fe6115550847744e524c/products/1803979/1803979_12_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-f2e2b662eb1515e6f66135a4a76dab66/products/1803979/1803979_9_900x900_w_g.webp"
+    ],
+    "name": "iPhone 14 plus",
+    "screen_size": "6.7 inches",
+    "description": "The iPhone 14 Plus features a 12MP camera setup and other advanced features. Screen size to be announced.",
+    "storage": ["64GB", ",128GB", ",256GB"],
+    "ram": "6GB",
+    "price": "799.00"
+  },
+  {
+    "id": 7,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-7cfd87572042b8e256d78d09c7e734e1/products/1803964/1803964_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-c59120f6e2a9a77b8e69c017a1d995a1/products/1803964/1803964_2_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-b262d7983cfbcb4c099e0933c335e429/products/1803964/1803964_13_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-3ef83d379cd9f2d5f86da3d826a69aa8/products/1803964/1803964_9_900x900_w_g.webp"
+    ],
+    "name": "iPhone 14",
+    "screen_size": "6.1 inches",
+    "description": "The iPhone 14 features a 12MP camera setup and other advanced features. Screen size to be announced.",
+    "storage": ["64GB", ",128GB", ",256GB"],
+    "ram": "6GB",
+    "price": "699.00"
+  },
+
+  {
+    "id": 8,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-707259ef286f69aa059ebec2434d8c4e/products/1898453/1898453_20_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-5f98805c0f0ab4e275abf728cc97624f/products/1898453/1898453_12_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-9852d0f55e4484f4917921feb3aef680/products/1898453/1898453_16_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-3cff577830dcdd5da9cdadc7c54a99c0/products/1898453/1898453_17_900x900_w_g.webp"
+    ],
+    "name": "Samsung Galaxy S23 Ultra",
+    "screen_size": "6.8 inches",
+    "description": "The Samsung S23 Ultra features a 200MP main camera with 10x telephoto, all-day battery life, and USB-C. It comes with a 6.8-inch screen size.",
+    "storage": ["256GB", ",512GB", ",1TB"],
+    "ram": "12GB",
+    "price": "1,199.00"
+  },
+  {
+    "id": 9,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-20e289f52c1334a3cd5ddf8bd452ba51/products/1898461/1898461_16_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-33ff53b91cb1673a10ed17ab2f988b3d/products/1898461/1898461_17_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-54784036df7b636bb9567b8436ac5ff7/products/1898461/1898461_21_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-d2ae68cc344d5d5f5f92f1695004a62e/products/1898461/1898461_12_900x900_w_g.webp"
+    ],
+    "name": "Samsung Galaxy S23 Plus",
+    "screen_size": "6.6 inches",
+    "description": "The Samsung S23 Plus boasts a 50MP main camera with 3x telephoto, all-day battery life, and USB-C. It comes with a 6.7-inch screen size.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "899.99"
+  },
+  {
+    "id": 10,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-7e4a6b08ca576403f73947bea173beb2/products/1898469/1898469_16_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-f5b2b0cd80f98a50e512e34b83a27dee/products/1898469/1898469_25_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-6507ca590949d9cf7efff7489e084fdb/products/1898469/1898469_26_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-cc2b9eb183ac0f0e1333d471ec9c0580/products/1898469/1898469_12_900x900_w_g.webp"
+    ],
+    "name": "Samsung Galaxy S23",
+    "screen_size": "6.1 inches",
+    "description": "The Samsung S23 features a 50MP main camera with 3x telephoto, all-day battery life, and USB-C. It comes with a 6.2-inch screen size.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "799.00"
+  },
+  {
+    "id": 11,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-a39f515bedab1d7e1b83d865afbf4051/products/1264163/1264163_27_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-cd7a39a4ffc757d4d4f85613358cdfe3/products/1264163/1264163_25_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-23e97947b34474c208e6f73973c5dd29/products/1264163/1264163_26_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-6c7d51e2d35b3a501529af51eb81d9b8/products/1264163/1264163_24_900x900_w_g.webp"
+    ],
+    "name": "Samsung Galaxy S22 5G Ultra",
+    "screen_size": "6.8 inches",
+    "description": "The Samsung S22 Ultra features a 108MP main camera with 10x telephoto, all-day battery life, and USB-C. It comes with a 6.8-inch screen size.",
+    "storage": ["256GB", ",512GB", ",1TB"],
+    "ram": "12GB",
+    "price": "879.99"
+  },
+  {
+    "id": 12,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-c5408e845c3b2b444e396c130e07fb1e/products/1264175/1264175_23_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-de861548277aee3f38430578b5d52d2b/products/1264175/1264175_24_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-3fc5e53caaa4c7f7eaccd84ab846fb43/products/1264175/1264175_13_600x600_w_g.webp",
+      "https://media.power-cdn.net/images/h-2370d06aaf2c4a781962607edae17321/products/1264175/1264175_16_900x900_w_g.webp"
+    ],
+    "name": "Samsung Galaxy S22 5G Plus",
+    "screen_size": "6.6 inches",
+    "description": "The Samsung S22 Plus boasts a 50MP main camera with 3x telephoto, all-day battery life, and USB-C. It comes with a 6.7-inch screen size.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "699.00"
+  },
+  {
+    "id": 13,
+    "type": "phone",
+    "img": [
+      "https://media.power-cdn.net/images/h-344e30bdb444962024489c180c80c7f9/products/1264183/1264183_20_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-3e51d6af91af26453a2b0ac6397eed71/products/1264183/1264183_17_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-7e1a0282e12a32970f997b0e7d078f32/products/1264183/1264183_13_600x600_w_g.webp",
+      "https://media.power-cdn.net/images/h-c8630c5fd2187ccf722e4d4b7fd881d2/products/1264183/1264183_18_900x900_w_g.webp"
+    ],
+    "name": "Samsung Galaxy S22 5G",
+    "screen_size": "6.1 inches",
+    "description": "The Samsung S22 features a 50MP main camera with 3x telephoto, all-day battery life, and USB-C. It comes with a 6.2-inch screen size.",
+    "storage": ["128GB", ",256GB", ",512GB"],
+    "ram": "8GB",
+    "price": "499.00"
+  },
+  {
+    "id": 14,
+    "type": "tablet",
+    "img": [
+      "https://media.power-cdn.net/images/h-f74970c2df40a8c71994b2d38626e236/products/1844446/1844446_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-aae689519dc1a4b620f48124c41a1dcb/products/1844446/1844446_3_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-dbc7111ad94b4005abc815d621e38d2e/products/1844446/1844446_5_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-02c5072fffa2ee625eb068c833dae006/products/1844446/1844446_4_900x900_w_g.webp"
+    ],
+    "name": "iPad Pro M2 11",
+    "screen_size": "11 inches",
+    "description": "The iPad Pro M2 features the powerful M2 chip, a stunning 11-inch display, and a versatile USB-C port. It's perfect for productivity and creativity.",
+    "storage": ["128GB", ",256GB", ",512GB", ",1TB"],
+    "ram": "16GB",
+    "price": "799.99"
+  },
+  {
+    "id": 15,
+    "type": "tablet",
+    "img": [
+      "https://media.power-cdn.net/images/h-85fd273c6707482e582330798ae52b82/products/1844467/1844467_13_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-e91af415a7c750b3b88920f6b488f6d3/products/1844467/1844467_3_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-fc457a34f7019f60feb3bde5289ffdad/products/1844467/1844467_9_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-d872e64744d1458801761536b34b553c/products/1844467/1844467_4_900x900_w_g.webp"
+    ],
+    "name": "iPad Pro M2 12.9",
+    "screen_size": "12.9 inches",
+    "description": "The iPad Pro M2 Plus, powered by the advanced M2 chip, features a spacious 12.9-inch display designed for professionals. With enhanced performance and graphics, it caters to a range of industries. The tablet supports the Apple Pencil for precise creativity, boasts a sleek design, and offers versatile applications for tasks such as graphic design and video editing.",
+    "storage": ["256GB", "512GB", ",1TB", ",2TB"],
+    "ram": "32GB",
+    "price": "1099.00"
+  },
+  {
+    "id": 16,
+    "type": "tablet",
+    "img": [
+      "https://media.power-cdn.net/images/h-685986e26f7ac6f324a01b449a0dfec6/products/2311614/2311614_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-f473610daa5d775f1f9a265a2434c549/products/2311614/2311614_16_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-9e30ac66731e15a298d66e6faf864ff7/products/2311614/2311614_19_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-b9cd16565aca47847637f4bb505076cc/products/2311614/2311614_12_900x900_w_g.webp"
+    ],
+    "name": "Samsung Tab S9 Ultra",
+    "screen_size": "14.6 inches",
+    "description": "The Samsung Tab S9 features a vibrant 10.5-inch Super AMOLED display, powerful performance, and S Pen compatibility. Enjoy productivity and entertainment on the go.",
+    "storage": ["256GB"],
+    "ram": "12GB",
+    "price": "1199.99"
+  },
+  {
+    "id": 17,
+    "type": "tablet",
+    "img": [
+      "https://media.power-cdn.net/images/h-8356517cb77c74075c58e7d2cdf7d40a/products/2311604/2311604_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-0c22bd1221acb2eb35814d3449210ae7/products/2311604/2311604_16_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-bfbe6fa723411aa51073cb76f3103b70/products/2311604/2311604_19_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-b8ad4d70806c85fb716f0b3525d9cfa6/products/2311604/2311604_12_900x900_w_g.webp"
+    ],
+    "name": "Samsung Tab S9",
+    "screen_size": "11 inches",
+    "description": "The Samsung Tab S9 features a vibrant 10.5-inch Super AMOLED display, powerful performance, and S Pen compatibility. Enjoy productivity and entertainment on the go.",
+    "storage": ["128GB"],
+    "ram": "8GB",
+    "price": "899.99"
+  },
+  {
+    "id": 18,
+    "type": "tablet",
+    "img": [
+      "https://media.power-cdn.net/images/h-685986e26f7ac6f324a01b449a0dfec6/products/2311614/2311614_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-f473610daa5d775f1f9a265a2434c549/products/2311614/2311614_16_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-9e30ac66731e15a298d66e6faf864ff7/products/2311614/2311614_19_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-b9cd16565aca47847637f4bb505076cc/products/2311614/2311614_12_900x900_w_g.webp"
+    ],
+    "name": "Samsung Tab S8 Ultra",
+    "screen_size": "9.7 inches",
+    "description": "The Samsung Tab S8 offers a compact 9.7-inch display, long-lasting battery life, and a sleek design. Ideal for multimedia consumption and light productivity.",
+    "storage": ["128GB"],
+    "ram": "8GB",
+    "price": "999.99"
+  },
+
+  {
+    "id": 19,
+    "type": "tablet",
+    "img": [
+      "https://media.power-cdn.net/images/h-685986e26f7ac6f324a01b449a0dfec6/products/2311614/2311614_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-f473610daa5d775f1f9a265a2434c549/products/2311614/2311614_16_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-9e30ac66731e15a298d66e6faf864ff7/products/2311614/2311614_19_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-b9cd16565aca47847637f4bb505076cc/products/2311614/2311614_12_900x900_w_g.webp"
+    ],
+    "name": "Samsung Tab S8",
+    "screen_size": "14.6 inches",
+    "description": "The Samsung Tab S9 features a vibrant 10.5-inch Super AMOLED display, powerful performance, and S Pen compatibility. Enjoy productivity and entertainment on the go.",
+    "storage": ["256GB"],
+    "ram": "8GB",
+    "price": "799.99"
+  },
+
+  {
+    "id": 20,
+    "type": "laptop",
+    "name": "MacBook Pro M2 16.2",
+    "img": [
+      "https://media.power-cdn.net/images/h-7beeb5114efd4e458f0bf143ffd436c4/products/1934305/1934305_11_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-5f5c7d5a1408ca2011dff0585ae1c174/products/1934305/1934305_2_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-51440057f881ffd85e376d1d9a129285/products/1934305/1934305_4_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-595db7f25d98eadb16df9a699c56fc48/products/1934305/1934305_6_900x900_w_g.webp"
+    ],
+    "ram": "16GB",
+    "storage": "512GB",
+    "screen_size": "16.2 inches",
+    "description": "The MacBook M2 is the latest model with an advanced M2 chip, Retina display, and sleek design.",
+    "price": "2499.00"
+  },
+  {
+    "id": 21,
+    "type": "laptop",
+    "name": "Lenovo Legion 5",
+    "img": [
+      "https://media.power-cdn.net/images/h-03e956d5810004acf365beb955213402/products/1244095/1244095_13_600x600_t_g.webp",
+      "https://media.power-cdn.net/images/h-54085863ca4417933dae406fb20ec97a/products/1244097/1244097_1_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-117de7743a26ffaf1e51a9a95bd0f483/products/1244097/1244097_2_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-b8ae002f52ab9484bb5860e151a85415/products/1244097/1244097_3_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-44c9bf729ee04c61ec6fe721fabcc720/products/1244097/1244097_4_900x900_t_g.webp"
+    ],
+    "price": "1699.00",
+    "description": "The Lenovo Legion 5 is a gaming laptop with a powerful AMD Ryzen 7 6800H processor, 32GB DDR4 RAM, and a dedicated NVIDIA GeForce RTX 3060 graphics card."
+  },
+  {
+    "id": 22,
+    "type": "laptop",
+    "name": "Asus ROG Zephyrus G14",
+    "img": [
+      "https://media.power-cdn.net/images/h-4b76896d7cce0fa22e5a38dccd117f01/products/1244281/1244281_3_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-7e99a34f230d82f3f6387f0e349cc80c/products/1244281/1244281_4_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-888c89c64dfbe98c10086b29cc2e3db3/products/1244281/1244281_5_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-c42b490ec58fa30aa04a8c29edf0ffca/products/1244281/1244281_6_900x900_t_g.webp"
+    ],
+    "price": "1699.00",
+    "storage": "1 TB M.2 NVMe SSD",
+    "screen_size": "14",
+    "ram": "32 GB DDR5 RAM",
+    "description": "The Asus ROG Zephyrus G14 is a gaming laptop with a powerful AMD Ryzen 9 6900HS processor, 16GB DDR4 RAM, and a dedicated NVIDIA GeForce RTX 3080 graphics card."
+  },
+  {
+    "id": 23,
+    "type": "accessories",
+    "name": "DJI OSMO MOBILE SE GIMBAL",
+    "img": [
+      "https://media.power-cdn.net/images/h-2919139d0137efb07e0ccd8b21558dc0/products/1814779/1814779_5_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-93860d2777e562cbd4cecb179a8831de/products/1814779/1814779_10_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-97dd39ea68fe7a6fcb8bd91f254ed90a/products/1814779/1814779_9_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-13b44ea87248043b6ab37df209420896/products/1814779/1814779_7_900x900_t_g.webp"
+    ],
+    "price": "129.00",
+    "description": "The Osmo Mobile SE gimbal stabilizes videos and photos taken with a smartphone. A highly calibrated three-axis gimbal with ActiveTrack 5.0 tracking."
+  },
+  {
+    "id": 24,
+    "type": "accessories",
+    "name": "SAMSUNG SMART TAG2",
+    "img": [
+      "https://media.power-cdn.net/images/h-48ac0bd9918efd1506fea1652abb4a22/products/2666070/2666070_4_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-c52efad8e7d5740e377e586c8dc91295/products/2666070/2666070_3_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-a788a769f458ec4470fb01ce472abe75/products/2666070/2666070_5_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-839f71b9644ae12be3e974685e87ea39/products/2666070/2666070_6_900x900_t_g.webp"
+    ],
+    "price": "30.00",
+    "description": "The Samsung Galaxy SmartTag2 means that you will never lose anything again. It's a little tracker that lets you know exactly where your stuff is. The updated tracker is now even better in every way."
+  },
+  {
+    "id": 25,
+    "type": "accessories",
+    "name": "APPLE AIRTAG",
+    "img": [
+      "https://media.power-cdn.net/images/h-2277110c7e7b7f82c8b24e216f7ba478/products/1512986/1512986_9_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-8690850afaa3416d2a39e8368697eebb/products/1512986/1512986_8_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-48aeb421bb7d0956fdba62ee4387c5c1/products/1512986/1512986_2_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-3d47458d42ee8bb9cc44bedc94e9edc5/products/1512986/1512986_4_900x900_w_g.webp"
+    ],
+    "price": "30.00",
+    "description": "AirTag. Keep track of your keys, wallet, suitcase, backpack and much more - all in the Find app. Play a sound in the built-in speaker or say Hey Siri, find my training bag"
+  },
+  {
+    "id": 26,
+    "type": "accessories",
+    "name": "SAMSUNG GALAXY WATCH6 40 MM BT",
+    "img": [
+      "https://media.power-cdn.net/images/h-09cb4223bbf21eaba69cd8b12dbcbec7/products/2266890/2266890_6_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-d6d1f08e007f93a843c6d90a04da4854/products/2266890/2266890_2_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-4d7bb4cd9f1e2c7b4d574a9ac29ffbf4/products/2266890/2266890_4_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-0ace4592c2d51bedd4e96e709e1cf91b/products/2266890/2266890_17_900x900_w_g.webp"
+    ],
+    "price": "299.00",
+    "description": "The Samsung Galaxy Watch6 is an even more versatile tool for monitoring health and well-being. The watch now has an improved bezel-to-screen ratio, thanks to which you can enjoy a larger screen without making the watch itself bigger."
+  },
+  {
+    "id": 27,
+    "type": "accessories",
+    "name": "APPLE WATCH SERIES 9 GPS 45 MM",
+    "img": [
+      "https://media.power-cdn.net/images/h-d34afbb775537e8c7a3dd79a87db90db/products/2668803/2668803_2_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-cccd3ec96d710bc3a62447db43835ecd/products/2668803/2668803_3_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-ad68b514d18f15883b1fee5641ca5f6d/products/2668803/2668803_8_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-fd0dbbfcb036a97a345477f2e02d7907/products/2668803/2668803_11_900x900_w_g.webp"
+    ],
+    "price": "399.00",
+    "description": "Your constant companion for a healthy lifestyle has become even more powerful. The S9 chip enables an incredibly bright screen and a magical new way to quickly and easily interact with your Apple Watch without touching the screen."
+  },
+  {
+    "id": 28,
+    "type": "accessories",
+    "name": "APPLE WATCH ULTRA 2 GPS",
+    "img": [
+      "https://media.power-cdn.net/images/h-350f986dad76ea1a5b854ef55c406c9a/products/2668878/2668878_2_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-6fc49b7a79c503799278bb6afe463cc3/products/2668878/2668878_3_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-c8a96ea9b0fd1245ef7bea86422bb907/products/2668878/2668878_9_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-3e3ebf415ae621e8b190c12b978da3ee/products/2668878/2668878_10_900x900_w_g.webp"
+    ],
+    "price": "799.00",
+    "description": "Rugged and versatile, designed for endurance athletes, adventurers and divers – with a dedicated wristband for each. The S9 SiP enables an incredibly bright screen and a magical new way to quickly and easily interact with your Apple Watch without touching the screen."
+  },
+  {
+    "id": 29,
+    "type": "accessories",
+    "name": "APPLE PENCIL (2. GEN)",
+    "img": [
+      "https://media.power-cdn.net/images/h-06f3ab14965792d8d80e79650f4f28a4/products/972698/972698_6_600x600_t_g.webp",
+      "https://media.power-cdn.net/images/h-e9b1c4748e112ad6ae5ec71b4c22c2b5/products/972698/972698_2_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-008d2d343410923bcdf950a614d24977/products/972698/972698_3_900x900_w_g.webp"
+    ],
+    "price": "129.00",
+    "description": "The new Apple Pencil is intuitive, precise and magically easy to use. It makes note-taking, writing and drawing better than ever before. Apple Pencil attaches to the side of the iPad with a magnet and charges wirelessly. The pen is always ready when you need it."
+  },
+  {
+    "id": 30,
+    "type": "accessories",
+    "name": "APPLE AIRPODS PRO (SECOND GENERATION)",
+    "img": [
+      "https://media.power-cdn.net/images/h-d02a488082d659e7bcbb451633a41823/products/1804024/1804024_6_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-196c37b712cbeb8ea49aa8de8e3f0e44/products/1804024/1804024_7_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-40d528a5d1108a18eaa15199ea32cf1d/products/1804024/1804024_3_900x900_w_g.webp",
+      "https://media.power-cdn.net/images/h-5eafe7d69cc70bc9634d3bf32a956651/products/1804024/1804024_5_900x900_w_g.webp"
+    ],
+    "price": "249.00",
+    "description": "AirPods Pro has up to twice as much active noise reduction1, adaptive transparency and rich, immersive sound thanks to personalized spatial sound with dynamic head tracking.2 Now with ear tips in multiple sizes (XS, S, M, L) and up to six hours of listening."
+  },
+  {
+    "id": 31,
+    "type": "accessories",
+    "name": "SAMSUNG GALAXY BUDS2 GRAPHITE",
+    "img": [
+      "https://media.power-cdn.net/images/h-f6e9904e24014c06d74a84ce716d8d2e/products/1192495/1192495_9_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-4a5e33a2e4d56735e168d7d69887b2f1/products/1192495/1192495_3_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-fc23401b013a04059c7e0ad79d022f99/products/1192495/1192495_4_900x900_t_g.webp",
+      "https://media.power-cdn.net/images/h-d210a3ad41ea827a04f3a73a5e2e6c7b/products/1192495/1192495_6_900x900_t_g.webp"
+    ],
+    "price": "149.00",
+    "description": "The Galaxy Buds2 weigh little, and sit really comfortably with an adaptable shape. Choose between three different silicone covers and you can enjoy headphones that fit your ears. Choose your favorite color: black, white, green or purple."
+  }
+]
