@@ -3,15 +3,15 @@ import { FaBars } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import { FaShoppingCart } from "react-icons/fa";
 import { MdShoppingCartCheckout } from "react-icons/md";
-import LoginButton from "../Auth0/LoginButton";
-import LogoutButton from "../Auth0/LogoutButton";
-import Profile from "../Auth0/Profile";
-import { useAuth0 } from "@auth0/auth0-react";
+// import LoginButton from "../Auth0/LoginButton";
+// import LogoutButton from "../Auth0/LogoutButton";
+// import Profile from "../Auth0/Profile";
+// import { useAuth0 } from "@auth0/auth0-react";
 
 function NavBar({ children }) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [total, setTotal] = useState(0);
-  const { isAuthenticated } = useAuth0();
+  // const { isAuthenticated } = useAuth0();
 
   useEffect(() => {
     if (window.Snipcart) {
@@ -87,7 +87,7 @@ function NavBar({ children }) {
               </span>
             </a>
 
-            <div className="flex justify-center  items-center gap-2">
+            {/* <div className="flex justify-center  items-center gap-2">
               {isAuthenticated ? (
                 <>
                   <Profile />
@@ -96,7 +96,7 @@ function NavBar({ children }) {
               ) : (
                 <LoginButton />
               )}
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
